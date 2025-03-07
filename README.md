@@ -1,4 +1,4 @@
-# Sudoku Game
+# Sudoku Game (WORK IN PROGRESS)
 
 A modern Sudoku puzzle game built with Python and PyQt6, featuring an intuitive user interface, multiple difficulty levels, and automatic puzzle solving.
 
